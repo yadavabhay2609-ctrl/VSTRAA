@@ -44,7 +44,7 @@ color:gold !important;
 
 height:100vh;
 
-background:url("../assets/hero.avif") no-repeat center center;
+background:url("../Assets/hero.avif") no-repeat center center;
 
 background-size:cover;
 
@@ -181,7 +181,7 @@ max-width:500px;
 
 .offer-banner{
 
-    background:url("../assets/discount.jpg") no-repeat center center;
+    background:url("../Assets/discount.jpg") no-repeat center center;
 
     background-size:cover;
 
@@ -558,7 +558,7 @@ border-radius:30px;
 }
 
 
-/*================ CART PAGE ================*/
+/* CART PAGE */
 
 .cart-section{
 
@@ -596,7 +596,7 @@ border-radius:30px;
 
 }
 
-/*=============== ABOUT PAGE ===============*/
+/* ABOUT PAGE */
 
 .about-banner{
 
@@ -670,7 +670,7 @@ border-radius:30px;
 
 }
 
-/*================ LOGIN & REGISTER ================*/
+/*LOGIN & REGISTER */
 
 .login-section{
 
